@@ -106,7 +106,7 @@ Cryptography
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=i252148-pixel&theme=github-dark-blue"/>
+<img src="https://streak-stats.demolab.com?user=AownAnsar2008&theme=github-dark-blue"/>
 
 </div>
 
@@ -116,7 +116,7 @@ Cryptography
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=i252148-pixel&theme=github"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AownAnsar2008&theme=github"/>
 
 </div>
 
