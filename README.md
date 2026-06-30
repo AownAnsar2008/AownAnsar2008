@@ -4,7 +4,7 @@
 
 ### Building software. Learning security. Solving problems.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&lines=Cybersecurity+Student;C%2B%2B+Developer;Web+Developer;Future+Software+Engineer;Always+Building..." />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&lines=Cybersecurity+Student;C%2B%2B+Developer;Web+Developer;Always+Building..." />
 
 </div>
 
