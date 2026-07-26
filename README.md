@@ -48,10 +48,16 @@ Outside the classroom, you'll usually find me experimenting with C++, improving 
 
 ## 📂 Highlighted Projects
 
-🔐 Cryptography Algorithms in C++
+## 📁 Highlighted Projects
 
-Implemented classical and modern cryptographic algorithms including Caesar Cipher, RSA Encryption, and XOR Encryption with Diffie-Hellman Key Exchange using C++.
+### 🔐 Cryptography Algorithms in C++
 
+Implemented:
+- Caesar Cipher
+- RSA Encryption
+- XOR + Diffie-Hellman
+
+[➡️ View Repository](https://github.com/AownAnsar2008/Cryptography-Algorithms-in-CPP)
 ## 📖 Currently Exploring
 
 ```text
