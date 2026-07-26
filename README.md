@@ -48,29 +48,9 @@ Outside the classroom, you'll usually find me experimenting with C++, improving 
 
 ## 📂 Highlighted Projects
 
-### 🛒 Digital Electronics Store
+🔐 Cryptography Algorithms in C++
 
-A responsive e-commerce website built using HTML, CSS and JavaScript with a focus on clean UI and teamwork.
-
----
-
-### 🎮 Tumble Pop Clone
-
-Recreated the classic arcade game in C++ using SFML while implementing object-oriented programming concepts and game mechanics.
-
----
-
-### 🔐 Cryptographic Algorithms
-
-Implemented encryption algorithms including Caesar Cipher and RSA to understand the fundamentals of secure communication.
-
----
-
-### 🎓 GPA Calculator
-
-A simple command-line GPA calculator developed independently using C++.
-
----
+Implemented classical and modern cryptographic algorithms including Caesar Cipher, RSA Encryption, and XOR Encryption with Diffie-Hellman Key Exchange using C++.
 
 ## 📖 Currently Exploring
 
