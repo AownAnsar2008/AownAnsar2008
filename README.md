@@ -38,15 +38,24 @@ Outside the classroom, you'll usually find me experimenting with C++, improving 
 <img src="https://skillicons.dev/icons?i=cpp,html,css,js" />
 </p>
 
-### Tools
+## 🛠️ Tools
 
-<p>
+<p align="left">
+
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+<img src="https://img.shields.io/badge/Wireshark-Network%20Analysis-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Metasploit-Penetration%20Testing-red?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Hydra-Password%20Auditing-black?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Splunk-SIEM-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Nmap-Network%20Scanning-green?style=for-the-badge"/>
+
 </p>
-
 ---
-
-## 📂 Highlighted Projects
 
 ## 📁 Highlighted Projects
 
