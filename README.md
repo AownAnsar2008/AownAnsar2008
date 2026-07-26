@@ -42,9 +42,13 @@ Outside the classroom, you'll usually find me experimenting with C++, improving 
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://img.shields.io/badge/Git-Version%20Control-orange?style=for-the-badge&logo=git&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Wireshark-Network%20Analysis-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GitHub-Code%20Hosting-black?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/VS%20Code-Editor-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Wireshark-Network%20Analysis-blue?style=for-the-badge&logo=wireshark&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Metasploit-Penetration%20Testing-red?style=for-the-badge"/>
 
