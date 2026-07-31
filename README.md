@@ -125,12 +125,34 @@ Currently I'm learning networking, Linux, cryptography, detection engineering, a
 ---
 
 # 📊 GitHub Analytics
-## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AownAnsar2008&show_icons=true&theme=tokyonight&hide_border=true)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AownAnsar2008&layout=compact&theme=tokyonight&hide_border=true)
+<a href="https://github.com/AownAnsar2008">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AownAnsar2008&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+</a>
 
+<a href="https://github.com/AownAnsar2008">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AownAnsar2008&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="75%" src="https://streak-stats.demolab.com?user=AownAnsar2008&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AownAnsar2008&theme=tokyo-night&hide_border=true"/>
+
+</div>
 ---
 
 # 🔥 GitHub Streak
