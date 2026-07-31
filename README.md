@@ -1,78 +1,78 @@
 <div align="center">
 
-# Aown Ansar
+# AOWN ANSAR
 
-### Building software. Learning security. Solving problems.
+### `> Building software. Learning security. Solving problems.`
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&lines=Cybersecurity+Student;C%2B%2B+Developer;Web+Developer;Always+Building..." />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1200&color=00FF41&center=true&vCenter=true&width=700&lines=Cybersecurity+Student;C%2B%2B+Developer;Web+Developer;Always+Building..." />
+
+![Profile Views](https://komarev.com/ghpvc/?username=AownAnsar2008&color=00FF41&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-## 💫 About Me
+## `> cat about.txt`
 
-I'm a Cybersecurity undergraduate at **FAST NUCES Islamabad** with a growing interest in software engineering, secure application development, and modern web technologies.
+```
+I'm a Cybersecurity undergraduate at FAST NUCES Islamabad with a growing
+interest in software engineering, secure application development, and
+modern web technologies.
 
-I enjoy building practical projects that strengthen my understanding of programming while exploring how software can be made more reliable and secure.
+I enjoy building practical projects that strengthen my understanding of
+programming while exploring how software can be made more reliable and
+secure.
 
-Outside the classroom, you'll usually find me experimenting with C++, improving my web development skills, or participating in cybersecurity competitions.
-
----
-
-## 🚀 What I'm Working On
-
-- 📚 Strengthening Data Structures & OOP
-- 🌐 Learning Modern Web Development
-- 🔐 Exploring Cryptography
-- 🎮 Building C++ Applications
-- 🚩 Practicing CTF Challenges
+Outside the classroom, you'll usually find me experimenting with C++,
+improving my web development skills, or participating in cybersecurity
+competitions.
+```
 
 ---
 
-## 💻 Tech Stack
+## `> ps -ef | grep "currently working on"`
+
+- `[ ]` Strengthening Data Structures & OOP
+- `[ ]` Learning Modern Web Development
+- `[ ]` Exploring Cryptography
+- `[ ]` Building C++ Applications
+- `[ ]` Practicing CTF Challenges
+
+---
+
+## `> uname -a` — Tech Stack
 
 ### Languages
-
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,html,css,js" />
+<img src="https://skillicons.dev/icons?i=cpp,html,css,js&theme=dark" />
 </p>
 
-## 🛠️ Tools
-
+### Tools
 <p align="left">
-
-<img src="https://img.shields.io/badge/Git-Version%20Control-orange?style=for-the-badge&logo=git&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GitHub-Code%20Hosting-black?style=for-the-badge&logo=github&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/VS%20Code-Editor-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Wireshark-Network%20Analysis-blue?style=for-the-badge&logo=wireshark&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Metasploit-Penetration%20Testing-red?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Hydra-Password%20Auditing-black?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Splunk-SIEM-orange?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Nmap-Network%20Scanning-green?style=for-the-badge"/>
-
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/Hydra-000000?style=for-the-badge&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=00FF41"/>
 </p>
+
 ---
 
-## 📁 Highlighted Projects
+## `> ls -la ./highlighted_projects/`
 
-### 🔐 Cryptography Algorithms in C++
+### `[ Cryptography Algorithms in C++ ]`
 
 Implemented:
 - Caesar Cipher
 - RSA Encryption
 - XOR + Diffie-Hellman
 
-[➡️ View Repository](https://github.com/AownAnsar2008/Cryptography-Algorithms-in-CPP)
+**[➡️ View Repository](https://github.com/AownAnsar2008/Cryptography-Algorithms-in-CPP)**
 
-### 🔓 HashBreaker
+### `[ HashBreaker ]`
 
 Multithreaded C++ hash cracking tool with dictionary and brute-force attacks.
 
@@ -81,58 +81,54 @@ Implemented:
 - Dictionary attack mode
 - Brute-force attack mode with multithreading
 
-[➡ View Repository](https://github.com/AownAnsar2008/hashbreaker)
-## 📖 Currently Exploring
+**[➡ View Repository](https://github.com/AownAnsar2008/hashbreaker)**
+
+---
+
+## `> top` — Currently Exploring
 
 ```text
 Software Engineering
-██████████░░░░░░ 60%
+██████████░░░░░░  60%
 
 Cybersecurity
-████████░░░░░░░░ 50%
+████████░░░░░░░░  50%
 
 Web Development
-█████████░░░░░░░ 55%
+█████████░░░░░░░  55%
 
 Cryptography
-███████░░░░░░░░░ 45%
+███████░░░░░░░░░  45%
 ```
 
 ---
 
-## 📊 GitHub Analytics
+## `> git log --stats` — GitHub Analytics
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AownAnsar2008&show_icons=true&theme=github_dark"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AownAnsar2008l&layout=compact&theme=github_dark"/>
-
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AownAnsar2008&show_icons=true&theme=dark&border_color=00FF41&title_color=00FF41&text_color=c9d1d9&icon_color=00FF41&bg_color=0D1117"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AownAnsar2008&layout=compact&theme=dark&border_color=00FF41&title_color=00FF41&text_color=c9d1d9&bg_color=0D1117"/>
 </div>
 
 ---
 
-## 🔥 Contribution Streak
+## `> uptime` — Contribution Streak
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=AownAnsar2008&theme=github-dark-blue"/>
-
+<img src="https://streak-stats.demolab.com?user=AownAnsar2008&theme=dark&background=0D1117&border=00FF41&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41"/>
 </div>
 
 ---
 
-## 📈 Activity Graph
+## `> tail -f activity.log` — Activity Graph
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AownAnsar2008&theme=github"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AownAnsar2008&theme=react-dark&bg_color=0D1117&color=00FF41&line=00FF41&point=c9d1d9"/>
 </div>
 
 ---
 
-## 🎯 2025 Goals
+## `> cat goals_2026.txt`
 
 - Complete more real-world software projects
 - Learn advanced C++
@@ -142,12 +138,10 @@ Cryptography
 
 ---
 
-## 🤝 Connect
+## `> netstat --connect`
 
 📧 i252148@isb.nu.edu.pk
-
 💼 LinkedIn
-
 🐙 GitHub → https://github.com/i252148-pixel
 
 ---
@@ -156,6 +150,10 @@ Cryptography
 
 ### Thanks for stopping by 👋
 
-*"Code with curiosity. Build with purpose."*
+```
+"Code with curiosity. Build with purpose."
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FF41&height=100&section=footer" width="100%"/>
 
 </div>
