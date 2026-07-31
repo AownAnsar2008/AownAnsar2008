@@ -1,10 +1,10 @@
 <div align="center">
 
-# AOWN ANSAR
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FF41&height=180&section=header&text=AOWN%20ANSAR&fontSize=50&fontColor=00FF41&animation=fadeIn&desc=Cybersecurity%20%7C%20Aspiring%20Blue%20Teamer&descAlignY=65&descSize=18&fontAlignY=35" width="100%"/>
 
-### `> Building software. Learning security. Solving problems.`
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1200&color=00FF41&center=true&vCenter=true&width=700&lines=Cybersecurity+Student;C%2B%2B+Developer;Web+Developer;Always+Building..." />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1200&color=00FF41&center=true&vCenter=true&width=700&lines=root%40aown%3A~%23+whoami;Cybersecurity+Student;Learning+Red+%26+Blue+Team+Concepts;Aiming+for+Blue+Team...;Analyzing+packets...;Cracking+hashes...;Always+Building..." />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AownAnsar2008&color=00FF41&style=flat-square&label=PROFILE+VIEWS)
 
@@ -15,17 +15,17 @@
 ## `> cat about.txt`
 
 ```
-I'm a Cybersecurity undergraduate at FAST NUCES Islamabad with a growing
-interest in software engineering, secure application development, and
-modern web technologies.
+I'm a Cybersecurity undergraduate at FAST NUCES Islamabad. My primary
+focus is cybersecurity, with a long-term goal of moving into blue
+teaming.
 
-I enjoy building practical projects that strengthen my understanding of
-programming while exploring how software can be made more reliable and
-secure.
+As a beginner, I'm learning core security concepts and deliberately
+applying them on both sides, red team and blue team, since
+understanding how attacks work is what makes defense make sense.
 
 Outside the classroom, you'll usually find me experimenting with C++,
-improving my web development skills, or participating in cybersecurity
-competitions.
+working through CTF challenges, or digging into how tools like
+Wireshark, Nmap, and Splunk actually work under the hood.
 ```
 
 ---
@@ -36,7 +36,7 @@ competitions.
 - `[ ]` Learning Modern Web Development
 - `[ ]` Exploring Cryptography
 - `[ ]` Building C++ Applications
-- `[ ]` Practicing CTF Challenges
+- `[ ]` Practicing CTF Challenges (Red + Blue)
 
 ---
 
@@ -70,7 +70,7 @@ Implemented:
 - RSA Encryption
 - XOR + Diffie-Hellman
 
-**[➡️ View Repository](https://github.com/AownAnsar2008/Cryptography-Algorithms-in-CPP)**
+**[View Repository](https://github.com/AownAnsar2008/Cryptography-Algorithms-in-CPP)**
 
 ### `[ HashBreaker ]`
 
@@ -81,7 +81,7 @@ Implemented:
 - Dictionary attack mode
 - Brute-force attack mode with multithreading
 
-**[➡ View Repository](https://github.com/AownAnsar2008/hashbreaker)**
+**[View Repository](https://github.com/AownAnsar2008/hashbreaker)**
 
 ---
 
@@ -120,6 +120,14 @@ Cryptography
 
 ---
 
+## `> ./snake.sh` — Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/AownAnsar2008/AownAnsar2008/output/github-contribution-grid-snake-dark.svg"/>
+</div>
+
+---
+
 ## `> tail -f activity.log` — Activity Graph
 
 <div align="center">
@@ -130,28 +138,29 @@ Cryptography
 
 ## `> cat goals_2026.txt`
 
-- Complete more real-world software projects
+- Build a solid foundation in blue team fundamentals (log analysis, detection, SIEM)
+- Keep applying red team concepts to understand what defenders are up against
+- Complete more real-world security and software projects
 - Learn advanced C++
-- Improve front-end development skills
 - Participate in more CTF competitions
-- Secure a software engineering or cybersecurity internship
+- Secure a cybersecurity internship, ideally SOC/blue team focused
 
 ---
 
 ## `> netstat --connect`
 
-📧 i252148@isb.nu.edu.pk
-💼 LinkedIn
-🐙 GitHub → https://github.com/i252148-pixel
+Email: i252148@isb.nu.edu.pk
+LinkedIn: —
+GitHub: https://github.com/i252148-pixel
 
 ---
 
 <div align="center">
 
-### Thanks for stopping by 👋
+### Thanks for stopping by
 
 ```
-"Code with curiosity. Build with purpose."
+Code with curiosity. Defend with purpose.
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FF41&height=100&section=footer" width="100%"/>
