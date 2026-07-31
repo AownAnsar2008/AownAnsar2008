@@ -126,30 +126,6 @@ Currently I'm learning networking, Linux, cryptography, detection engineering, a
 
 # 📊 GitHub Analytics
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AownAnsar2008&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AownAnsar2008&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="75%" src="https://streak-stats.demolab.com?user=AownAnsar2008&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AownAnsar2008&theme=tokyo-night&hide_border=true"/>
-
-</div>
----
 
 # 🔥 GitHub Streak
 
