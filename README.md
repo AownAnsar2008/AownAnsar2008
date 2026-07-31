@@ -154,15 +154,6 @@ Currently I'm learning networking, Linux, cryptography, detection engineering, a
 
 </div>
 
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AownAnsar2008&theme=algolia&no-frame=true&margin-w=15&margin-h=15"/>
-
-</div>
 
 ---
 
