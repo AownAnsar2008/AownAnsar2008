@@ -1,51 +1,45 @@
+````markdown
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050816,50:1565C0,100:42A5F5&text=Aown%20Ansar&fontColor=ffffff&fontSize=48&animation=fadeIn&fontAlignY=38"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0B1120,50:1565C0,100:42A5F5&text=Aown%20Ansar&fontColor=ffffff&fontSize=50&fontAlignY=38&animation=fadeIn"/>
 
-# 🛡️ Cybersecurity Student | Future Blue Teamer
+# 🛡️ Cybersecurity Student • Blue Team Enthusiast • C++ Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=23&duration=3500&pause=1000&color=42A5F5&center=true&vCenter=true&width=750&lines=Cybersecurity+Student;Blue+Team+Enthusiast;Learning+Red+%26+Blue+Team;C%2B%2B+Developer;CTF+Player;Always+Learning..." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=42A5F5&center=true&vCenter=true&width=700&lines=Cybersecurity+Student;Blue+Team+Enthusiast;Learning+Red+%26+Blue+Team;CTF+Player;Building+Security+Projects"/>
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=1565C0&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&color=1565C0"/>
-<img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=for-the-badge&color=1565C0"/>
+<img src="https://komarev.com/ghpvc/?username=AownAnsar&style=for-the-badge&color=1565C0"/>
+<img src="https://img.shields.io/github/followers/AownAnsar?style=for-the-badge&color=1565C0"/>
+<img src="https://img.shields.io/github/stars/AownAnsar?style=for-the-badge&color=1565C0"/>
 </p>
 
 </div>
 
 ---
 
-# 💫 About Me
+# 👨‍💻 About Me
 
 ```yaml
 Name        : Aown Ansar
-Education   : BS Cyber Security
+Degree      : BS Cyber Security
 University  : FAST NUCES Islamabad
-Focus       : Blue Team
-Interested  : SOC | DFIR | SIEM | Network Security
+Focus       : Blue Team | SOC | SIEM
 Languages   : C++, HTML, CSS, JavaScript
+Learning    : Networking, Linux, Cryptography
 ```
 
-🛡️ I'm passionate about cybersecurity and enjoy understanding both offensive and defensive security.
-
-Currently I'm building a strong foundation in networking, cryptography, operating systems, and C++ while practicing on CTF platforms and learning industry tools.
+I am a Cyber Security undergraduate passionate about understanding both offensive and defensive security. I enjoy building projects in C++, solving CTF challenges, and learning how real-world attacks work to improve defensive skills.
 
 ---
 
 # 🚀 Current Focus
 
-🔹 Blue Team Fundamentals
-
-🔹 Digital Forensics
-
-🔹 Network Security
-
-🔹 Cryptography
-
-🔹 CTF Challenges
-
-🔹 C++ Projects
+- 🛡️ Blue Team Fundamentals
+- 📊 SIEM & Log Analysis
+- 🌐 Computer Networking
+- 🔐 Cryptography
+- 🐧 Linux
+- 🚩 TryHackMe & CTFs
 
 ---
 
@@ -59,7 +53,7 @@ Currently I'm building a strong foundation in networking, cryptography, operatin
 
 ---
 
-# 🛠️ Tools & Technologies
+# 🛠️ Tools
 
 <p align="center">
 
@@ -69,8 +63,8 @@ Currently I'm building a strong foundation in networking, cryptography, operatin
 
 <div align="center">
 
-| 🛡️ Security | 💻 Development |
-|-------------|----------------|
+| Security Tools | Development |
+|---------------|-------------|
 | 🦈 Wireshark | Git |
 | 📡 Nmap | GitHub |
 | 📊 Splunk | VS Code |
@@ -83,27 +77,42 @@ Currently I'm building a strong foundation in networking, cryptography, operatin
 
 # 📂 Featured Projects
 
-## 🔐 Cryptography Algorithms in C++
+<table>
+<tr>
 
-```
-✔ Caesar Cipher
+<td width="50%">
 
-✔ RSA Encryption
+## 🔐 Cryptography Algorithms
 
-✔ XOR Encryption
+### Description
 
-✔ Diffie-Hellman
-```
+Implementation of classic cryptographic algorithms in modern C++.
+
+### Features
+
+- Caesar Cipher
+- RSA Encryption
+- XOR Encryption
+- Diffie-Hellman
+- Clean OOP Design
+
+### Tech Stack
+
+`C++`
 
 🔗 Repository
 
-https://github.com/AownAnsar2008/Cryptography-Algorithms-in-CPP
+https://github.com/AownAnsar/Cryptography-Algorithms-in-CPP
 
----
+</td>
+
+<td width="50%">
 
 ## 🔓 HashBreaker
 
-A multithreaded password recovery toolkit written in C++.
+### Description
+
+Multithreaded password recovery tool developed in C++.
 
 ### Features
 
@@ -114,24 +123,35 @@ A multithreaded password recovery toolkit written in C++.
 - Brute Force
 - Multithreading
 
+### Tech Stack
+
+`C++`
+
 🔗 Repository
 
-https://github.com/AownAnsar2008/hashbreaker
+https://github.com/AownAnsar/hashbreaker
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-# 📚 Currently Exploring
+# 📈 Learning Progress
 
 ```text
-Blue Team        ███████████░░░░░░ 60%
+Cybersecurity      ███████████████░░ 75%
 
-Cybersecurity    █████████████░░░░ 70%
+Blue Team          ████████████░░░░░ 65%
 
-Networking       ████████████░░░░░ 65%
+Networking         █████████████░░░░ 70%
 
-Cryptography     █████████░░░░░░░░ 50%
+Linux              ███████████░░░░░░ 60%
 
-C++              ███████████████░░ 80%
+Cryptography       ███████████░░░░░░ 60%
+
+C++                ████████████████░ 85%
 ```
 
 ---
@@ -140,9 +160,9 @@ C++              ███████████████░░ 80%
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AownAnsar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AownAnsar&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -152,7 +172,7 @@ C++              ███████████████░░ 80%
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=AownAnsar&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -162,7 +182,7 @@ C++              ███████████████░░ 80%
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AownAnsar&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -172,47 +192,48 @@ C++              ███████████████░░ 80%
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=AownAnsar&theme=algolia&no-frame=true&column=6"/>
 
 </div>
 
 ---
 
-# 🎯 Goals
+# 🎯 2026 Goals
 
-- 🛡️ Become a Blue Team / SOC Analyst
+- 🛡️ Become a SOC Analyst
 - 📊 Master Splunk & SIEM
 - 🌐 Improve Networking Skills
-- 🔐 Learn Malware Analysis
-- 🚩 Solve More CTF Challenges
-- 💻 Build More Open Source Security Projects
+- 🔐 Learn Digital Forensics
+- 🚩 Complete More CTF Challenges
+- 💻 Build Open Source Security Tools
 
 ---
 
-# 🤝 Connect With Me
+# 📫 Connect With Me
 
-<div align="center">
+<p align="center">
 
 <a href="mailto:i252148@isb.nu.edu.pk">
 <img src="https://img.shields.io/badge/Email-1565C0?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-1565C0?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/AownAnsar">
 <img src="https://img.shields.io/badge/GitHub-1565C0?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</div>
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-1565C0?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
 <div align="center">
 
-## 💙 Learn • Build • Defend
+## 💙 *Learn • Build • Defend*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:42A5F5,100:050816"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:42A5F5,100:0B1120"/>
 
 </div>
+````
