@@ -1,140 +1,234 @@
+````markdown
 <div align="center">
 
-# Aown Ansar
-### Cybersecurity Enthusiast | Aspiring Blue Teamer
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1560BD,100:4FC3F7&height=220&section=header&text=Aown%20Ansar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1560BD&height=150&section=header&text=&animation=fadeIn" width="100%"/>
+<h2>🛡️ Cybersecurity Student | Future Blue Teamer | C++ Developer</h2>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1200&color=1560BD&center=true&vCenter=true&width=700&lines=Cybersecurity+Student;Learning+Red+%26+Blue+Team+Concepts;Aiming+for+Blue+Team...;Always+Building..." />
+<p>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3500&pause=1000&color=4FC3F7&center=true&vCenter=true&width=750&lines=Cybersecurity+Student;Learning+Red+%26+Blue+Team;Blue+Team+Focused;CTF+Player;Always+Learning+%F0%9F%9A%80"/>
+</p>
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=i252148-pixel&label=Profile+Views&color=1560BD&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/i252148-pixel?style=for-the-badge&color=1560BD"/>
+<img src="https://img.shields.io/github/stars/i252148-pixel?style=for-the-badge&color=1560BD"/>
+</p>
 
 </div>
 
 ---
 
-## 💫 About Me
+# 👨‍💻 About Me
 
-I'm a Cybersecurity undergraduate at **FAST NUCES Islamabad**. My primary focus is cybersecurity, with a long-term goal of moving into blue teaming.
+<img align="right" width="280" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif"/>
 
-As a beginner, I'm learning core security concepts and deliberately applying them on both sides, red team and blue team, since understanding how attacks work is what makes defense make sense.
+🎓 BS Cyber Security Student at **FAST NUCES Islamabad**
 
-Outside the classroom, you'll usually find me experimenting with C++, working through CTF challenges, or digging into how tools like Wireshark, Nmap, and Splunk actually work.
+🛡️ Aspiring **Blue Team / SOC Analyst**
+
+🔍 Passionate about understanding attacks to build stronger defenses
+
+💻 Strong interest in
+
+- Network Security
+- Digital Forensics
+- Malware Analysis
+- Incident Response
+- SIEM & Log Analysis
+- Cryptography
+
+🚩 I enjoy solving CTF challenges and building C++ security tools.
 
 ---
 
-## 🚀 What I'm Working On
+# 🚀 Currently Learning
 
-- 📚 Strengthening Data Structures & OOP
-- 🔐 Exploring Cryptography
-- 🎮 Building C++ Applications
-- 🚩 Practicing CTF Challenges (Red + Blue)
+- 🧠 Data Structures & Algorithms
+- 🔐 Cryptography
+- 🛡️ Blue Team Fundamentals
+- ⚔️ Red Team Basics
+- 🌐 Networking
+- 🐧 Linux
+- 📊 Splunk
+- 📡 Wireshark
 
 ---
 
-## 💻 Tech Stack
+# 💻 Languages
 
-### Languages
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,html,css,js" />
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,html,css,js"/>
+
 </p>
 
-## 🛠️ Tools
-<p align="left">
-<img src="https://img.shields.io/badge/Git-Version%20Control-orange?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-Code%20Hosting-black?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-Editor-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Wireshark-Network%20Analysis-blue?style=for-the-badge&logo=wireshark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Metasploit-Penetration%20Testing-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Hydra-Password%20Auditing-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Splunk-SIEM-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Nmap-Network%20Scanning-green?style=for-the-badge"/>
+---
+
+# 🛠️ Technologies & Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Wireshark-Network%20Analysis-1560BD?style=for-the-badge&logo=wireshark&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Nmap-Network%20Scanning-1560BD?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Splunk-SIEM-1560BD?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Metasploit-Penetration%20Testing-1560BD?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Hydra-Password%20Auditing-1560BD?style=for-the-badge"/>
+
 </p>
 
 ---
 
-## 📁 Highlighted Projects
+# 📂 Featured Projects
 
-### 🔐 Cryptography Algorithms in C++
-Implemented:
-- Caesar Cipher
-- RSA Encryption
-- XOR + Diffie-Hellman
+## 🔐 Cryptography Algorithms in C++
 
-[➡️ View Repository](https://github.com/AownAnsar2008/Cryptography-Algorithms-in-CPP)
+✔ Caesar Cipher
 
-### 🔓 HashBreaker
-Multithreaded C++ hash cracking tool with dictionary and brute-force attacks.
+✔ RSA Encryption
 
-Implemented:
-- MD5, SHA-1, SHA-256 (from scratch, no external crypto library)
-- Dictionary attack mode
-- Brute-force attack mode with multithreading
+✔ XOR Encryption
 
-[➡ View Repository](https://github.com/AownAnsar2008/hashbreaker)
+✔ Diffie-Hellman Key Exchange
+
+🔗 **Repository**
+
+https://github.com/AownAnsar2008/Cryptography-Algorithms-in-CPP
 
 ---
 
-## 📖 Currently Exploring
+## 🔓 HashBreaker
+
+A multithreaded password recovery toolkit written completely in C++.
+
+### Features
+
+- MD5
+- SHA-1
+- SHA-256
+- Dictionary Attack
+- Brute Force Attack
+- Multithreading
+
+🔗 **Repository**
+
+https://github.com/AownAnsar2008/hashbreaker
+
+---
+
+# 📈 Skill Progress
+
 ```text
-Software Engineering
-██████████░░░░░░ 60%
+Cybersecurity        █████████████░░░░░ 65%
 
-Cybersecurity
-████████░░░░░░░░ 50%
+Blue Team            ███████████░░░░░░░ 55%
 
-Web Development
-█████████░░░░░░░ 55%
+Networking           ████████████░░░░░░ 60%
 
-Cryptography
-███████░░░░░░░░░ 45%
+C++                  ███████████████░░░ 75%
+
+Web Development      ████████████░░░░░░ 60%
+
+Cryptography         ██████████░░░░░░░░ 50%
 ```
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
+
 <div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AownAnsar2008&show_icons=true&theme=github_dark"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AownAnsar2008&layout=compact&theme=github_dark"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=i252148-pixel&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i252148-pixel&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </div>
 
 ---
 
-## 🔥 Contribution Streak
+# 🔥 GitHub Streak
+
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=AownAnsar2008&theme=github-dark-blue"/>
+
+<img src="https://streak-stats.demolab.com?user=i252148-pixel&theme=tokyonight&hide_border=true"/>
+
 </div>
 
 ---
 
-## 📈 Activity Graph
+# 📈 Contribution Graph
+
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AownAnsar2008&theme=github"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=i252148-pixel&theme=tokyo-night"/>
+
 </div>
 
 ---
 
-## 🎯 2026 Goals
+# 🏆 GitHub Trophies
 
-- Build a solid foundation in blue team fundamentals (log analysis, detection, SIEM)
-- Keep applying red team concepts to understand what defenders are up against
-- Complete more real-world software and security projects
-- Learn advanced C++
-- Participate in more CTF competitions
-- Secure a cybersecurity internship, ideally SOC/blue team focused
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=i252148-pixel&theme=algolia&no-frame=true&column=7"/>
+
+</div>
 
 ---
 
-## 🤝 Connect
+# 🎯 2026 Goals
 
-📧 i252148@isb.nu.edu.pk
-💼 LinkedIn
-🐙 GitHub → https://github.com/i252148-pixel
+🎯 Master Blue Team Fundamentals
+
+🎯 Learn Threat Detection
+
+🎯 Improve Incident Response Skills
+
+🎯 Build More Open Source Security Tools
+
+🎯 Contribute to GitHub Consistently
+
+🎯 Participate in More CTF Competitions
+
+🎯 Secure a Blue Team / SOC Internship
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:i252148@isb.nu.edu.pk">
+<img src="https://img.shields.io/badge/Email-1560BD?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/i252148-pixel">
+<img src="https://img.shields.io/badge/GitHub-1560BD?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-1560BD?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
 <div align="center">
 
-### Thanks for stopping by 👋
+### 💙 "Learn. Build. Defend."
 
-"Code with curiosity. Defend with purpose."
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4FC3F7,100:0D1117&height=120&section=footer"/>
 
 </div>
+````
