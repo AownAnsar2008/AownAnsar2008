@@ -3,10 +3,13 @@
 # Aown Ansar
 ### Cybersecurity Enthusiast | Aspiring Blue Teamer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&lines=Cybersecurity+Student;Learning+Red+%26+Blue+Team+Concepts;Aiming+for+Blue+Team...;Always+Building..." />
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%"/>
 
-<img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d3-4d45-8cd7-3f11f2a3cf65.png" width="90"/>
-<img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="90"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1200&color=FF0033&center=true&vCenter=true&width=700&lines=Cybersecurity+Student;Learning+Red+%26+Blue+Team+Concepts;Aiming+for+Blue+Team...;Always+Building..." />
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="80"/>
 
 </div>
 
