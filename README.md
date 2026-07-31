@@ -1,16 +1,14 @@
-````markdown
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0B1120,50:1565C0,100:42A5F5&text=Aown%20Ansar&fontColor=ffffff&fontSize=50&fontAlignY=38&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:1565C0,100:42A5F5&text=Aown%20Ansar&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38"/>
 
-# 🛡️ Cybersecurity Student • Blue Team Enthusiast • C++ Developer
+# 🛡️ Cybersecurity Student | Future Blue Teamer
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=42A5F5&center=true&vCenter=true&width=700&lines=Cybersecurity+Student;Blue+Team+Enthusiast;Learning+Red+%26+Blue+Team;CTF+Player;Building+Security+Projects"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=42A5F5&center=true&vCenter=true&width=700&lines=Cybersecurity+Student;Blue+Team+Enthusiast;CTF+Player;C%2B%2B+Developer;Always+Learning..." />
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=AownAnsar&style=for-the-badge&color=1565C0"/>
-<img src="https://img.shields.io/github/followers/AownAnsar?style=for-the-badge&color=1565C0"/>
-<img src="https://img.shields.io/github/stars/AownAnsar?style=for-the-badge&color=1565C0"/>
+  <img src="https://komarev.com/ghpvc/?username=AownAnsar&style=for-the-badge&color=1565C0"/>
+  <img src="https://img.shields.io/github/followers/AownAnsar?style=for-the-badge&color=1565C0"/>
 </p>
 
 </div>
@@ -24,22 +22,23 @@ Name        : Aown Ansar
 Degree      : BS Cyber Security
 University  : FAST NUCES Islamabad
 Focus       : Blue Team | SOC | SIEM
-Languages   : C++, HTML, CSS, JavaScript
-Learning    : Networking, Linux, Cryptography
+Learning    : Networking • Linux • Cryptography
+Languages   : C++ • HTML • CSS • JavaScript
 ```
 
-I am a Cyber Security undergraduate passionate about understanding both offensive and defensive security. I enjoy building projects in C++, solving CTF challenges, and learning how real-world attacks work to improve defensive skills.
+I am a Cyber Security undergraduate passionate about understanding how cyber attacks work and how they can be detected and prevented. I enjoy building security-focused projects, solving CTF challenges, and continuously improving my knowledge of networking, operating systems, and defensive security.
 
 ---
 
-# 🚀 Current Focus
+# 🚀 Current Learning Path
 
 - 🛡️ Blue Team Fundamentals
-- 📊 SIEM & Log Analysis
 - 🌐 Computer Networking
-- 🔐 Cryptography
 - 🐧 Linux
-- 🚩 TryHackMe & CTFs
+- 📊 Splunk SIEM
+- 🔐 Cryptography
+- 🚩 TryHackMe Labs
+- 💻 Advanced C++
 
 ---
 
@@ -53,7 +52,7 @@ I am a Cyber Security undergraduate passionate about understanding both offensiv
 
 ---
 
-# 🛠️ Tools
+# 🛠️ Tools & Technologies
 
 <p align="center">
 
@@ -61,58 +60,41 @@ I am a Cyber Security undergraduate passionate about understanding both offensiv
 
 </p>
 
-<div align="center">
+<p align="center">
 
-| Security Tools | Development |
-|---------------|-------------|
-| 🦈 Wireshark | Git |
-| 📡 Nmap | GitHub |
-| 📊 Splunk | VS Code |
-| 💣 Metasploit | Linux |
-| 🔑 Hydra | Bash |
+<img src="https://img.shields.io/badge/Wireshark-1565C0?style=for-the-badge&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nmap-1565C0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Splunk-1565C0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Metasploit-1565C0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hydra-1565C0?style=for-the-badge"/>
 
-</div>
+</p>
 
 ---
 
 # 📂 Featured Projects
 
-<table>
-<tr>
+## 🔐 Cryptography Algorithms in C++
 
-<td width="50%">
-
-## 🔐 Cryptography Algorithms
-
-### Description
-
-Implementation of classic cryptographic algorithms in modern C++.
+> A collection of classical cryptographic algorithms implemented in C++.
 
 ### Features
 
 - Caesar Cipher
 - RSA Encryption
 - XOR Encryption
-- Diffie-Hellman
-- Clean OOP Design
-
-### Tech Stack
-
-`C++`
+- Diffie-Hellman Key Exchange
+- Object-Oriented Design
 
 🔗 Repository
 
 https://github.com/AownAnsar/Cryptography-Algorithms-in-CPP
 
-</td>
-
-<td width="50%">
+---
 
 ## 🔓 HashBreaker
 
-### Description
-
-Multithreaded password recovery tool developed in C++.
+> A multithreaded password recovery toolkit developed in modern C++.
 
 ### Features
 
@@ -123,22 +105,13 @@ Multithreaded password recovery tool developed in C++.
 - Brute Force
 - Multithreading
 
-### Tech Stack
-
-`C++`
-
 🔗 Repository
 
 https://github.com/AownAnsar/hashbreaker
 
-</td>
-
-</tr>
-</table>
-
 ---
 
-# 📈 Learning Progress
+# 📈 Skill Progress
 
 ```text
 Cybersecurity      ███████████████░░ 75%
@@ -156,11 +129,11 @@ C++                ████████████████░ 85%
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AownAnsar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AownAnsar&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AownAnsar&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -200,11 +173,11 @@ C++                ████████████████░ 85%
 
 # 🎯 2026 Goals
 
-- 🛡️ Become a SOC Analyst
-- 📊 Master Splunk & SIEM
+- 🛡️ Become a Blue Team / SOC Analyst
+- 📊 Master SIEM & Log Analysis
 - 🌐 Improve Networking Skills
 - 🔐 Learn Digital Forensics
-- 🚩 Complete More CTF Challenges
+- 🚩 Participate in More CTFs
 - 💻 Build Open Source Security Tools
 
 ---
@@ -221,7 +194,7 @@ C++                ████████████████░ 85%
 <img src="https://img.shields.io/badge/GitHub-1565C0?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
 <img src="https://img.shields.io/badge/LinkedIn-1565C0?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -231,9 +204,8 @@ C++                ████████████████░ 85%
 
 <div align="center">
 
-## 💙 *Learn • Build • Defend*
+### 💙 *Learn • Build • Defend*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:42A5F5,100:0B1120"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:42A5F5,100:0D1117"/>
 
 </div>
-````
