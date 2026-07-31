@@ -123,12 +123,7 @@ Currently I'm learning networking, Linux, cryptography, detection engineering, a
 </a>
 
 ---
-# 📊 GitHub Analytics
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AownAnsar2008&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AownAnsar2008&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 # 🔥 GitHub Streak
 
 <div align="center">
@@ -188,7 +183,7 @@ Currently I'm learning networking, Linux, cryptography, detection engineering, a
 
 <div align="center">
 
-## 💙 "Learn • Build • Defend"
+##  "Learn • Build • Defend"
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:42A5F5,100:0B1120"/>
 
