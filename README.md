@@ -3,13 +3,9 @@
 # Aown Ansar
 ### Cybersecurity Enthusiast | Aspiring Blue Teamer
 
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FF0033&height=150&section=header&text=&animation=fadeIn" width="100%"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1200&color=FF0033&center=true&vCenter=true&width=700&lines=Cybersecurity+Student;Learning+Red+%26+Blue+Team+Concepts;Aiming+for+Blue+Team...;Always+Building..." />
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="80"/>
 
 </div>
 
