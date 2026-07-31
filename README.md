@@ -71,6 +71,17 @@ Implemented:
 - XOR + Diffie-Hellman
 
 [➡️ View Repository](https://github.com/AownAnsar2008/Cryptography-Algorithms-in-CPP)
+
+### 🔓 HashBreaker
+
+Multithreaded C++ hash cracking tool with dictionary and brute-force attacks.
+
+Implemented:
+- MD5, SHA-1, SHA-256 (from scratch, no external crypto library)
+- Dictionary attack mode
+- Brute-force attack mode with multithreading
+
+[➡ View Repository](https://github.com/AownAnsar2008/hashbreaker)
 ## 📖 Currently Exploring
 
 ```text
