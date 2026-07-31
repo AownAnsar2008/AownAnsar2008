@@ -128,13 +128,9 @@ Currently I'm learning networking, Linux, cryptography, detection engineering, a
 
 <div align="center">
 
-<a href="https://github.com/AownAnsar2008">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AownAnsar2008&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-</a>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AownAnsar2008&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<a href="https://github.com/AownAnsar2008">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AownAnsar2008&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</a>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AownAnsar2008&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
