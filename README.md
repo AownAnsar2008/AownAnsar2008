@@ -125,14 +125,11 @@ Currently I'm learning networking, Linux, cryptography, detection engineering, a
 ---
 
 # 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
-<div align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AownAnsar2008&show_icons=true&theme=tokyonight&hide_border=true)
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=AownAnsar2008&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AownAnsar2008&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AownAnsar2008&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
