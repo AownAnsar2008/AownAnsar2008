@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:FF0033,100:0066FF&height=180&section=header&text=AOWN%20ANSAR&fontSize=50&fontColor=FFFFFF&animation=fadeIn&desc=Cybersecurity%20%7C%20Aspiring%20Blue%20Teamer&descAlignY=65&descSize=18&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FF0033&height=180&section=header&text=AOWN%20ANSAR&fontSize=50&fontColor=FFFFFF&animation=fadeIn&desc=Cybersecurity%20%7C%20Aspiring%20Blue%20Teamer&descAlignY=65&descSize=18&fontAlignY=35" width="100%"/>
 
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%"/>
 
@@ -49,13 +49,13 @@ Wireshark, Nmap, and Splunk actually work under the hood.
 
 ### Tools
 <p align="left">
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=FF0033"/>
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=0066FF"/>
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=0066FF"/>
-<img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=FF0033"/>
+<img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=0066FF"/>
 <img src="https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=0066FF"/>
-<img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=FF0033"/>
+<img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=0066FF"/>
 <img src="https://img.shields.io/badge/Hydra-000000?style=for-the-badge&logoColor=0066FF"/>
-<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=FF0033"/>
+<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=0066FF"/>
 <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=0066FF"/>
 </p>
 
@@ -63,20 +63,13 @@ Wireshark, Nmap, and Splunk actually work under the hood.
 
 ## `> ls -la ./highlighted_projects/`
 
-Click a block below to jump straight to the repository.
-
-<div align="center">
-
-<a href="https://github.com/AownAnsar2008/Cryptography-Algorithms-in-CPP">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AownAnsar2008&repo=Cryptography-Algorithms-in-CPP&theme=dark&border_color=FF0033&title_color=FF0033&text_color=c9d1d9&icon_color=0066FF&bg_color=000000"/>
-</a>
-<a href="https://github.com/AownAnsar2008/hashbreaker">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AownAnsar2008&repo=hashbreaker&theme=dark&border_color=0066FF&title_color=0066FF&text_color=c9d1d9&icon_color=FF0033&bg_color=000000"/>
-</a>
-
-</div>
+Each block below is a real link, click anywhere on a card to open that repository.
 
 ### 🔒 `[ Cryptography Algorithms in C++ ]`
+
+<a href="https://github.com/AownAnsar2008/Cryptography-Algorithms-in-CPP">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AownAnsar2008&repo=Cryptography-Algorithms-in-CPP&theme=dark&border_color=FF0033&title_color=FF0033&text_color=c9d1d9&icon_color=FF0033&bg_color=000000"/>
+</a>
 
 Implemented:
 - Caesar Cipher
@@ -86,6 +79,10 @@ Implemented:
 **[→ Open Repository](https://github.com/AownAnsar2008/Cryptography-Algorithms-in-CPP)**
 
 ### 🔓 `[ HashBreaker ]`
+
+<a href="https://github.com/AownAnsar2008/hashbreaker">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AownAnsar2008&repo=hashbreaker&theme=dark&border_color=0066FF&title_color=0066FF&text_color=c9d1d9&icon_color=0066FF&bg_color=000000"/>
+</a>
 
 Multithreaded C++ hash cracking tool with dictionary and brute-force attacks.
 
@@ -119,7 +116,7 @@ Cryptography
 ## `> git log --stats` — GitHub Analytics
 
 <div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AownAnsar2008&show_icons=true&theme=dark&border_color=FF0033&title_color=FF0033&text_color=c9d1d9&icon_color=0066FF&bg_color=000000"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AownAnsar2008&show_icons=true&theme=dark&border_color=0066FF&title_color=0066FF&text_color=c9d1d9&icon_color=0066FF&bg_color=000000"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AownAnsar2008&layout=compact&theme=dark&border_color=0066FF&title_color=0066FF&text_color=c9d1d9&bg_color=000000"/>
 </div>
 
@@ -136,7 +133,7 @@ Cryptography
 ## `> uptime` — Contribution Streak
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=AownAnsar2008&theme=dark&background=000000&border=FF0033&stroke=0066FF&ring=FF0033&fire=0066FF&currStreakLabel=FF0033"/>
+<img src="https://streak-stats.demolab.com?user=AownAnsar2008&theme=dark&background=000000&border=FF0033&stroke=FF0033&ring=FF0033&fire=FF0033&currStreakLabel=FF0033"/>
 </div>
 
 ---
@@ -144,7 +141,7 @@ Cryptography
 ## `> tail -f activity.log` — Activity Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AownAnsar2008&theme=react-dark&bg_color=000000&color=FF0033&line=0066FF&point=c9d1d9"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AownAnsar2008&theme=react-dark&bg_color=000000&color=0066FF&line=0066FF&point=c9d1d9"/>
 </div>
 
 ---
@@ -176,6 +173,6 @@ GitHub: https://github.com/i252148-pixel
 Code with curiosity. Defend with purpose.
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:FF0033,100:0066FF&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FF0033&height=100&section=footer" width="100%"/>
 
 </div>
